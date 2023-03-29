@@ -1,0 +1,11 @@
+[
+	{
+		"nombre": {
+			"nombre": "el",
+			"descripcion": "tortas",
+			"precio": 1500,
+			"stock": "disponible"
+		},
+		"fecha": "22/03/2023, 22:34:57"
+	}
+]
